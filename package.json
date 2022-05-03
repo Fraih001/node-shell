@@ -1,0 +1,24 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bash": "nodemon bash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraih001/node-shell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraih001/node-shell/issues"
+  },
+  "homepage": "https://github.com/Fraih001/node-shell#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
